@@ -1,0 +1,15 @@
+# Ignore NetBeans build files
+build/
+dist/
+nbproject/private/
+target/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore the messages file we generate
+messages.json
+
+# Ignore IDE-specific files
+.idea/
+*.iml
